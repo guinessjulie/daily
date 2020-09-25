@@ -48,6 +48,6 @@ button{
     font-family:inherit;
     font-size : 1.3rem;
 }
-button:hover {
+button:hover, button:active {
     background-Color : #0874d3;
 }
