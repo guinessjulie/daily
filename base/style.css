@@ -1,0 +1,15 @@
+/* ref : fonts.google.com/specimen/Poppin >> select fonts >> navbar >> embed >> emport >> copy link */
+/* ref : uidesigndaily.com */
+/* ref : eggradients.com */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+* {
+    box-sizing : border-box;
+}
+body{
+    background-image : url("https://images.unsplash.com/photo-1587648739712-3ebce7f48e2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
+    background-size:cover;
+    background-position: center center;
+    min-height:100vh;
+    font-family : "Poppins", sans-serif;
+    margin: 0;
+}
